@@ -1,0 +1,27 @@
+---
+title: ""
+---
+
+::: {.grid}
+
+::: {.g-col-4}
+![](images/profile.jpg){.rounded-circle style="width:100%"}
+:::
+
+::: {.g-col-8}
+## Molly McDevitt
+
+<!-- Replace with your bio: 2-4 sentences on who you are, your field, and
+your current role/affiliation. -->
+
+Short bio goes here.
+
+[Google Scholar](https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID)
+&nbsp;|&nbsp;
+[CV](files/cv.pdf)
+&nbsp;|&nbsp;
+[GitHub](https://github.com/mollycmcd)
+
+:::
+
+:::

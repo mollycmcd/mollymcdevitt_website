@@ -1,0 +1,14 @@
+---
+title: "Research"
+---
+
+<!-- One section per project. Duplicate the block below as needed. -->
+
+## Project title
+
+Short description of the project, question, and methods (2-4 sentences).
+
+<!-- Example of embedding a map image you render elsewhere (e.g. in R)
+and save to the images/ folder:
+![](images/project1-map.png)
+-->
